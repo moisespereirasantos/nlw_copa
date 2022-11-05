@@ -31,4 +31,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, o
+O Calendário da Copa é um projeto que mostra os jogos da Copa de 2022.
